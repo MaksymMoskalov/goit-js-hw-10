@@ -1,0 +1,59 @@
+.hide-loader {
+  display: none;
+}
+
+.loader {
+  font-size: 24px;
+  color: green;
+}
+
+.error {
+  display: none;
+}
+
+.show {
+  display: block;
+  font-size: 24px;
+  color: red;
+}
+
+.breed-select {
+  width: 244px;
+  height: 30px;
+  font-size: 18px;
+  display: none;
+
+  margin-bottom: 10px;
+}
+
+.show-element {
+  display: block;
+}
+
+.cat-info {
+  display: flex;
+}
+.info {
+  margin-left: 20px;
+  width: 550px;
+}
+
+.cats-title {
+  margin-bottom: 40px;
+}
+
+.cats-description {
+  font-size: 24px;
+}
+
+.cats-temperament {
+  font-size: 24px;
+}
+
+.hide-element {
+  display: none;
+}
+
+.bold {
+  font-weight: 700;
+}
